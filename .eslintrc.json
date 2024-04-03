@@ -1,0 +1,10 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "plugins": ["prettier"],
+  "rules": {
+    "semi": "warn",
+    "prettier/prettier": "warn",
+    "react-hooks/exhaustive-deps": "off",
+    "react/self-closing-comp": "warn"
+  }
+}

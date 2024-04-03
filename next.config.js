@@ -30,7 +30,4 @@ module.exports = {
   // images: {
   //   unoptimized: true,
   // },
-  env: {
-    AESKey: 'chihyen!@&$,&handsome',
-  },
 };
